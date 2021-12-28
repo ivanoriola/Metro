@@ -1,0 +1,8 @@
+Nuevos Ministerios#8,6,10
+Colombia#8,9
+Pinar del Rey#8
+Mar de Cristal#8,4
+Feria de Madrid#8
+Aeropuerto T1 T2 T3#8
+Barajas#8
+Aeropuerto T4#8

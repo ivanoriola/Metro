@@ -1,0 +1,18 @@
+Villaverde Alto#3
+San Cristobal#3
+Villaverde Bajo Cruce#3
+Ciudad de los angeles#3
+San Fermin - Orcasur#3
+Hospital 12 de Octubre#3
+Almendrales#3
+Legazpi#3,6
+Delicias#3
+Palos de la Frontera#3
+Embajadores#3
+Lavapies#3
+Sol#3,1,2
+Callao#3,5
+Plaza de Espana#3,10
+Ventura Rodriguez#3
+Arguelles#3,4,6
+Moncloa#3,6

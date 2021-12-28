@@ -1,0 +1,28 @@
+O'Donnell#6
+Manuel Becerra#6,2
+Diego de Leon#6,4,5
+Avenida de America#6,4,7,9
+Republica Argentina#6
+Nuevos Ministerios#6,8,10
+Cuatro Caminos#6,1,2
+Guzman el Bueno#6,7
+Metropolitano#6
+Ciudad Universitaria#6
+Moncloa#6,3
+Arguelles#6,3,4
+Principe Pio#6,0,10
+Puerta del angel#6
+Alto de Extremadura#6
+Lucero#6
+Laguna#6
+Carpetana#6
+Oporto#6,5
+Opanel#6
+Plaza Eliptica#6,11
+Usera#6
+Legazpi#6,3
+Arganzuela - Planetario#6
+Mendez alvaro#6
+Pacifico#6,1
+Conde de Casal#6
+Sainz de Baranda#6,9

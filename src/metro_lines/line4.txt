@@ -1,0 +1,23 @@
+Arguelles#4,3,6
+San Bernardo#4,2
+Bilbao#4,1
+Alonso Martinez#4,5,10
+Colon#4
+Serrano#4
+Velazquez#4
+Goya#4,2
+Lista#4
+Diego de Leon#4,5,6
+Avenida de America#4,6,7,9
+Prosperidad#4
+Alfonso XIII#4
+Avenida de la Paz#4
+Arturo Soria#4
+Esperanza#4
+Canillas#4
+Mar de Cristal#4,8
+San Lorenzo#4
+Parque de Santa Maria#4
+Hortaleza#4
+Manoteras#4
+Pinar de Chamartin#4,1

@@ -1,0 +1,31 @@
+Hospital Infanta Sofia#10
+Reyes Catolicos#10
+Baunatal#10
+Manuel de Falla#10
+Marques de la Valdavia#10
+La Moraleja#10
+La Granja#10
+Ronda de la Comunicacion#10
+Las Tablas#10
+Montecarmelo#10
+Tres Olivos#10
+Fuencarral#10
+Begona#10
+Chamartin#10,1
+Plaza de Castilla#10,1,9
+Cuzco#10
+Santiago Bernabeu#10
+Nuevos Ministerios#10,6,8
+Gregorio Maranon#10,7
+Alonso Martinez#10,4,5
+Tribunal#10,1
+Plaza de Espana#10,3
+Principe Pio#10,0,6
+Lago#10
+Batan#10
+Casa de Campo#10,5
+Colonia Jardin#10
+Aviacion Espanola#10
+Cuatro Vientos#10
+Joaquin Vilumbrales#10
+Puerta del Sur#10
