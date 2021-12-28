@@ -1,5 +1,5 @@
 # Metro
-_Práctica final del Curso profesional de C y C++_AEPI (Asociación Española de Programadores Informáticos)
+_Práctica final del Curso profesional de C y C++_
 
 [AEPI (Asociación Española de Programadores Informáticos)](https://asociacionaepi.es/curso-profesional-de-c/)
 
